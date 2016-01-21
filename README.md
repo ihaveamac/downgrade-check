@@ -1,3 +1,4 @@
+**This is pretty much outdated due to https://github.com/svanheulen/downgrade_check and only kept here for historical purposes or something. So you should go use that instead.**
 # downgrade-check
 This small tool will check if you have downgraded your Nintendo 3DS system properly to the NATIVE_FIRM of 9.2 (2.46-0) or lower.
 
